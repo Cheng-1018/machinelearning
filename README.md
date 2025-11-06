@@ -7,6 +7,7 @@ MathJax.Hub.Config({
 });
 </script>
 
+
 # machinelearning
 
 机器学习笔记
@@ -22,7 +23,11 @@ MathJax.Hub.Config({
    - 多元高斯分布
 2. **[感兴趣的补充](note/2.感兴趣的补充.md)**
    - EM算法
-
+3. **[SVM](note/3.SVM.md)**
+   - 基本型
+   - 对偶问题
+   - 核函数
+   - 软间隔与SVR
 
 ### 实践篇
 
