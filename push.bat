@@ -2,6 +2,6 @@
 set http_proxy=http://127.0.0.1:7897
 set https_proxy=http://127.0.0.1:7897
 git add .
-git commit -m "SVM"
+git commit -m "贝叶斯"
 git push
 pause
